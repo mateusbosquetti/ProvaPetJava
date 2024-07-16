@@ -4,6 +4,7 @@ public class Pet {
     private boolean vivo, acordado;
     private int codigo, sede, fome, energia, diversao, higiene, vontadeBanheiro;
 
+    
     public Pet(String nome) {
         this.nome = nome;
     }
